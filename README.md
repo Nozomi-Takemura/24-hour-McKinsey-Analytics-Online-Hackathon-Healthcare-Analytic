@@ -55,8 +55,7 @@ I used neural network in matlab to predict AUC and ROC; hence, the "netlab" pack
 ### Main flow
 
 The main flow is the data cleaning and model fit.
-Regarding the data cleaning, the missng data are dealt with two ways, complete case analysis and Kth nearest imputation analysis.
+Regarding the data cleaning, the missng data are dealt with two ways, complete case analysis and Kth nearest imputation analysis. The majority of the code for this part is based on the book "practical-machine-learning-with-python" and its author's github "https://github.com/dipanjanS/practical-machine-learning-with-python.git".
 
-After that, a simple logistic regression and newral network are respecitvely fitted.
 
 
